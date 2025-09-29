@@ -61,7 +61,3 @@ The activities related to "DarkWebX" were mapped to the MITRE ATT&CK framework:
 - **Reconnaissance**: Active scanning and information gathering from forums and leaks.
 - **Resource Development**: Creation of multiple accounts across social and technical platforms.
 - **Defense Evasion**: Use of VPNs and secure email services to obscure identity and location.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
